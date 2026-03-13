@@ -14,4 +14,7 @@ dependencies = [
     "PyMuPDF",
     "beautifulsoup4>=4.14.3",
     "ddgs",
+    "requests>=2.32.5",
+    "google-genai>=1.46.0",
+    "pillow>=12.0.0",
 ]
